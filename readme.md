@@ -22,7 +22,7 @@ Mechanism of injury (MOI) refers to the specific force or event that causes trau
 Examples of MOI:
 - **Car accident**: The impact force from a collision may cause whiplash, fractures, or internal injuries.
 - **Fall from height**: The vertical force of landing can result in broken bones, head injuries, or spinal trauma.
-- **Gunshot wound**: A penetrating force that can cause damage to internal organs or tissues depending on the bullet’s path.
+- **Gunshot wound**: A penetrating force that can cause damage to internal organs or tissues depending on the bulletâ€™s path.
 
 
 ## 18.2 Define the five mechanisms of injury.
@@ -53,7 +53,7 @@ Each mechanism describes a different way that injury occurs, helping healthcare 
 
 ## 18.3 Describe why specific patients should be sent to a trauma center versus a community hospital.
 
-Specific patients should be sent to a **trauma center** rather than a community hospital because trauma centers are specially equipped and staffed to handle severe, complex, and life-threatening injuries. Here’s why:
+Specific patients should be sent to a **trauma center** rather than a community hospital because trauma centers are specially equipped and staffed to handle severe, complex, and life-threatening injuries. Hereâ€™s why:
 
 1. **Specialized Care**: Trauma centers have highly trained trauma surgeons, emergency physicians, and specialized nursing staff who are experienced in managing critical injuries such as severe head trauma, spinal injuries, and multiple fractures.
 
@@ -79,7 +79,7 @@ In contrast, **community hospitals** are suitable for less critical injuries and
 
 ## 18.4 Describe and demonstrate the management of a trauma patient.
 
-**Managing a trauma patient** involves a systematic approach to quickly assess, stabilize, and treat life-threatening injuries. The steps typically follow the **primary and secondary survey** process to ensure a comprehensive evaluation. Here’s how to manage a trauma patient:
+**Managing a trauma patient** involves a systematic approach to quickly assess, stabilize, and treat life-threatening injuries. The steps typically follow the **primary and secondary survey** process to ensure a comprehensive evaluation. Hereâ€™s how to manage a trauma patient:
 
 ### **1. Scene Safety and Initial Assessment:**
 - **Ensure scene safety**: Make sure the scene is safe for both you and the patient.
@@ -89,28 +89,28 @@ In contrast, **community hospitals** are suitable for less critical injuries and
 ### **2. Primary Survey (ABCDE Approach):**
 The primary survey focuses on identifying and treating life-threatening conditions.
 
-- **A – Airway with cervical spine control**:
+- **A â€“ Airway with cervical spine control**:
   - Check if the airway is clear and unobstructed.
   - If the patient is unresponsive, open the airway using the jaw-thrust maneuver to avoid moving the neck (assuming a possible spinal injury).
   - Insert an airway adjunct if necessary (e.g., an oropharyngeal airway).
   - Maintain **cervical spine stabilization** using manual inline stabilization or a cervical collar until a spinal injury is ruled out.
 
-- **B – Breathing**:
+- **B â€“ Breathing**:
   - Look, listen, and feel for breathing.
   - Assess the quality of breathing: rate, depth, and effort. 
-  - Provide oxygen via a non-rebreather mask or assist with ventilation using a bag-valve mask if the patient isn’t breathing adequately.
+  - Provide oxygen via a non-rebreather mask or assist with ventilation using a bag-valve mask if the patient isnâ€™t breathing adequately.
   - Treat conditions such as **tension pneumothorax** with needle decompression if necessary.
 
-- **C – Circulation with hemorrhage control**:
+- **C â€“ Circulation with hemorrhage control**:
   - Check for a pulse and signs of adequate circulation (e.g., skin color, temperature).
   - Control major bleeding immediately with direct pressure, a tourniquet (if appropriate), or pressure dressings.
   - Treat for shock by elevating the legs (if no spinal injury) and keeping the patient warm.
 
-- **D – Disability (Neurological Status)**:
-  - Assess the patient’s level of consciousness using the **AVPU** scale (Alert, Verbal, Pain, Unresponsive) or the **Glasgow Coma Scale (GCS)**.
+- **D â€“ Disability (Neurological Status)**:
+  - Assess the patientâ€™s level of consciousness using the **AVPU** scale (Alert, Verbal, Pain, Unresponsive) or the **Glasgow Coma Scale (GCS)**.
   - Check pupils for size, equality, and reaction to light.
 
-- **E – Exposure and Environment**:
+- **E â€“ Exposure and Environment**:
   - Fully expose the patient to assess for hidden injuries, but prevent hypothermia by covering the patient with blankets.
   
 ### **3. Secondary Survey (Head-to-Toe Examination):**
@@ -129,10 +129,10 @@ The secondary survey is performed after life-threatening conditions have been ad
 
 ### **5. Ongoing Monitoring and Reassessment**:
 - Continuously monitor **vital signs** (e.g., heart rate, respiratory rate, blood pressure, oxygen saturation).
-- Reassess the patient’s ABCs regularly, especially if there is a deterioration in condition.
+- Reassess the patientâ€™s ABCs regularly, especially if there is a deterioration in condition.
 
 ### **6. Communication with Receiving Facility**:
-- Provide a concise report to the receiving trauma center or hospital, including the patient’s age, sex, MOI, injuries found, treatment provided, and vital signs.
+- Provide a concise report to the receiving trauma center or hospital, including the patientâ€™s age, sex, MOI, injuries found, treatment provided, and vital signs.
 
 ### **Demonstration Example**:
 1. You find a patient who has been in a car accident.
